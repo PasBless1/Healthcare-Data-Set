@@ -1,6 +1,3 @@
-Here’s a breakdown of your healthcare data analysis project for your GitHub profile, showcasing the steps involved, tools used, and key insights derived from the project:
-
----
 
 ### **Healthcare Data Analysis Project**
 
