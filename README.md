@@ -58,6 +58,8 @@ This project involves analyzing healthcare data to derive valuable insights, ide
    - **Python**: For deeper data analysis, correlation studies, and statistical modeling (e.g., regression analysis).
    - **SQL**: For querying and manipulating healthcare databases to extract insights.
 
+Link to Dashboard:
+https://app.powerbi.com/groups/me/reports/df56e67b-328b-4ae8-80be-1824100e1ec9/28065a99e77080e44030?ctid=8775661c-d343-4930-a990-8a3360e2ca1f&experience=power-bi
 ---
 
 ### **Future Enhancements:**
